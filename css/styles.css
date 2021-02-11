@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+
+  background-color: #e3fdfd;
+}
+
+h1 {
+  color: #30e3ca;
+  height: auto;
+  font-size: 55px;
+  width: auto;
+  margin: 40px;
+  font-family: 'Hachi Maru Pop', cursive;
+}
+.me
+{
+  font-size: 30px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #30e3ca;
+}
+
+p
+{
+  width: 40%;
+  margin: 54px auto;
+  line-height: 2;
+  color: #30e3ca;
+}
+a
+{
+  margin: 100px auto;
+  line-height: 5;
+  padding: 50px;
+}
+.btn {
+  background: #23d3d9;
+  background-image: -webkit-linear-gradient(top, #23d3d9, #33bdb6);
+  background-image: -moz-linear-gradient(top, #23d3d9, #33bdb6);
+  background-image: -ms-linear-gradient(top, #23d3d9, #33bdb6);
+  background-image: -o-linear-gradient(top, #23d3d9, #33bdb6);
+  background-image: linear-gradient(to bottom, #23d3d9, #33bdb6);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 50px auto;
+}
+
+.btn:hover {
+  background: #0d8f8f;
+  background-image: -webkit-linear-gradient(top, #0d8f8f, #8f66b5);
+  background-image: -moz-linear-gradient(top, #0d8f8f, #8f66b5);
+  background-image: -ms-linear-gradient(top, #0d8f8f, #8f66b5);
+  background-image: -o-linear-gradient(top, #0d8f8f, #8f66b5);
+  background-image: linear-gradient(to bottom, #0d8f8f, #8f66b5);
+  text-decoration: none;
+}
+h2
+{
+  font-size: 35px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #f07b3f;
+  padding: 10px;
+}
+hr{
+  border: dotted #a6b1e1 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #cbf1f5;
+  position: relative;
+  padding: 100px;
+}
+.web
+{
+  text-decoration: underline;
+}
+.cloud2
+{
+  position: absolute;
+  left: 250px;
+}
+.cloud1
+{
+  position: absolute;
+  right:250px;
+  top: 50px;
+}
+.mypic
+{
+  height: 200px;
+  border-radius: 100%;
+}
+.bottom-container
+{
+  background-color: #30e3ca;
+  padding: 50px 0 20px;
+}
